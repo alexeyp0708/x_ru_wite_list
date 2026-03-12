@@ -63,6 +63,12 @@ Telegram-бот для связи: https://t.me/zieng2bot
 
 ## Поддержать автора
 
-Проект полностью некоммерческий. Поддержать меня можно через сервис пожертвований от Тинькофф.
+Проект полностью некоммерческий. Поддержать меня можно через сервис пожертвований от Тинькофф или криптовалютой.
 
 CloudTips: https://pay.cloudtips.ru/p/b532cfa7
+
+USDT (TRC20): TDqGB6c5D9odC7zp74hWfVvoE2MkWago1j
+
+BTC: bc1qaex0h3tdjjhq4a94m7z0gajugmmz9r3gf22uzv
+
+ETH: 0xAf0AeCF853325370936D68EbD99921dDa55fd3DC
